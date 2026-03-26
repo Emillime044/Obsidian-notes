@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "ab480e5c7f1ba192",
+    "type": "split",
+    "children": [
+      {
+        "id": "509d1efa14a77957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe1d5bd69c81e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ray Tracing/Le Normali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le Normali"
+            }
+          },
+          {
+            "id": "feeb1f905043d039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ray Tracing/Interpolazione Lineare (lerp).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interpolazione Lineare (lerp)"
+            }
+          },
+          {
+            "id": "44fd1840a22a01ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ray Tracing/Materiale Lambertian (Diffuso).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materiale Lambertian (Diffuso)"
+            }
+          },
+          {
+            "id": "a6a3153f22fcb9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ray Tracing/Antialiasing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antialiasing"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d19efd4b318f376a",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b587e6152c3d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e20ea396b171635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dce0c7d75b9963db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55edd13689e7d261",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "651dbd92596c345a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e55d51ffc54a629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cfe581aa7a81f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ray Tracing/Gamma Correction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gamma Correction"
+            }
+          },
+          {
+            "id": "01a35d684b543b66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ray Tracing/Gamma Correction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gamma Correction"
+            }
+          },
+          {
+            "id": "f8d99ec3f923f224",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6770a429c3f54d4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4f77f7c48a73e57d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ray Tracing/Gamma Correction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gamma Correction"
+            }
+          },
+          {
+            "id": "1b4839f45c543502",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a6a3153f22fcb9e3",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Ray Tracing/Antialiasing.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Ray Tracing/Vettori 3D.md",
+    "Ray Tracing/Gamma Correction.md",
+    "Ray Tracing/Ricorsione dei raggi.md",
+    "Ray Tracing/Materiale Lambertian (Diffuso).md",
+    "Ray Tracing/Interpolazione Lineare (lerp).md",
+    "Untitled",
+    "Ray Tracing/Le Normali.md",
+    "Ray Tracing/L'equazione della sfera.md",
+    "Ray Tracing/Hit detection Raggio-Sfera.md",
+    "Ray Tracing/Raggio (Ray).md",
+    "[[Raggio (Ray).md",
+    "Welcome.md",
+    "Ray Tracing"
+  ]
+}
