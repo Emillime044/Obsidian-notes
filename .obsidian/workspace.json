@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ray Tracing/Antialiasing.md",
+                "file": "Ray Tracing/Vettori 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Antialiasing"
+              "title": "Vettori 3D"
             }
           }
         ],
@@ -225,20 +225,20 @@
   },
   "active": "44fd1840a22a01ec",
   "lastOpenFiles": [
-    "Ray Tracing/Gamma Correction.md",
-    "Ray Tracing/Materiale Lambertian (Diffuso).md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Ray Tracing/Antialiasing.md",
-    "Ray Tracing/Vettori 3D.md",
     "Ray Tracing/Ricorsione dei raggi.md",
-    "Ray Tracing/Interpolazione Lineare (lerp).md",
-    "Untitled",
+    "Ray Tracing/Raggio (Ray).md",
+    "Ray Tracing/Materiale Lambertian (Diffuso).md",
     "Ray Tracing/Le Normali.md",
     "Ray Tracing/L'equazione della sfera.md",
     "Ray Tracing/Hit detection Raggio-Sfera.md",
-    "Ray Tracing/Raggio (Ray).md",
+    "Ray Tracing/Gamma Correction.md",
+    "Ray Tracing/Antialiasing.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Ray Tracing/Vettori 3D.md",
+    "Ray Tracing/Interpolazione Lineare (lerp).md",
+    "Untitled",
     "[[Raggio (Ray).md",
     "Welcome.md",
     "Ray Tracing"
