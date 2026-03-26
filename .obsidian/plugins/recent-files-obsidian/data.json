@@ -1,0 +1,52 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Materiale Metallico",
+      "path": "Ray Tracing/Materiali/Materiale Metallico.md"
+    },
+    {
+      "basename": "Riflessione Totale Interna",
+      "path": "Ray Tracing/Riflessione Totale Interna.md"
+    },
+    {
+      "basename": "Rifrazione",
+      "path": "Ray Tracing/Rifrazione.md"
+    },
+    {
+      "basename": "Closest-Hit Tracking",
+      "path": "Ray Tracing/Closest-Hit Tracking.md"
+    },
+    {
+      "basename": "Le Normali",
+      "path": "Ray Tracing/Le Normali.md"
+    },
+    {
+      "basename": "Interpolazione Lineare (lerp)",
+      "path": "Ray Tracing/Interpolazione Lineare (lerp).md"
+    },
+    {
+      "basename": "Gamma Correction",
+      "path": "Ray Tracing/Gamma Correction.md"
+    },
+    {
+      "basename": "Raggio (Ray)",
+      "path": "Ray Tracing/Raggio (Ray).md"
+    },
+    {
+      "basename": "Antialiasing",
+      "path": "Ray Tracing/Antialiasing.md"
+    },
+    {
+      "basename": "Vettori 3D",
+      "path": "Ray Tracing/Vettori 3D.md"
+    },
+    {
+      "basename": "Materiale Lambertian (Diffuso)",
+      "path": "Ray Tracing/Materiali/Materiale Lambertian (Diffuso).md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
