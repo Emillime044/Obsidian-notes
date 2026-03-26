@@ -15,6 +15,3 @@ colore_pixel = (colore₁ + colore₂ + ... + coloreₙ) / n)
 Immagina un pixel al bordo di una sfera rossa su sfondo azzurro. Con un solo raggio: il pixel è o tutto rosso o tutto azzurro. Con 100 raggi: magari 60 colpiscono la sfera (rosso) e 40 lo sfondo (azzurro). La media dà un colore tra il rosso e l'azzurro - una transazione morbida che il nostro occhio percepisce come un bordo liscio.
 
 In pratica stai campionando l'area del pixel e facendo una stima statistica del suo colore reale. Più raggi usi, più la stima è precisa. Con pochi raggi l'immagine è granulosa (il "rumore" di Monte Carlo); con molti raggi diventa liscia e pulita.
-
-
-ao

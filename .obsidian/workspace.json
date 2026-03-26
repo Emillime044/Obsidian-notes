@@ -41,20 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ray Tracing/Materiale Lambertian (Diffuso).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Materiale Lambertian (Diffuso)"
-            }
-          },
-          {
-            "id": "a6a3153f22fcb9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Ray Tracing/Antialiasing.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,16 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6a3153f22fcb9e3",
+  "active": "44fd1840a22a01ec",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Ray Tracing/Antialiasing.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Ray Tracing/Vettori 3D.md",
     "Ray Tracing/Gamma Correction.md",
-    "Ray Tracing/Ricorsione dei raggi.md",
     "Ray Tracing/Materiale Lambertian (Diffuso).md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Ray Tracing/Antialiasing.md",
+    "Ray Tracing/Vettori 3D.md",
+    "Ray Tracing/Ricorsione dei raggi.md",
     "Ray Tracing/Interpolazione Lineare (lerp).md",
     "Untitled",
     "Ray Tracing/Le Normali.md",
