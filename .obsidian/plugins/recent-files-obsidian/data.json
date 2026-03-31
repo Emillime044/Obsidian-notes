@@ -1,44 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "RetardLLM — Spiegazione completa",
+      "path": "RetardLLM/RetardLLM — Spiegazione completa.md"
+    },
+    {
+      "basename": "RetardLLM — Riferimento variabili",
+      "path": "RetardLLM/RetardLLM — Riferimento variabili.md"
+    },
+    {
+      "basename": "Vettori 3D",
+      "path": "Ray Tracing/Matematica/Vettori 3D.md"
+    },
+    {
+      "basename": "Riflessione Totale Interna",
+      "path": "Ray Tracing/Materiali/Riflessione Totale Interna.md"
+    },
+    {
+      "basename": "Interpolazione Lineare (lerp)",
+      "path": "Ray Tracing/Matematica/Interpolazione Lineare (lerp).md"
+    },
+    {
+      "basename": "Ricorsione dei raggi",
+      "path": "Ray Tracing/Raggi e intersezioni/Ricorsione dei raggi.md"
+    },
+    {
+      "basename": "Rifrazione",
+      "path": "Ray Tracing/Materiali/Rifrazione.md"
+    },
+    {
       "basename": "Materiale Metallico",
       "path": "Ray Tracing/Materiali/Materiale Metallico.md"
     },
     {
-      "basename": "Riflessione Totale Interna",
-      "path": "Ray Tracing/Riflessione Totale Interna.md"
-    },
-    {
-      "basename": "Rifrazione",
-      "path": "Ray Tracing/Rifrazione.md"
-    },
-    {
       "basename": "Closest-Hit Tracking",
-      "path": "Ray Tracing/Closest-Hit Tracking.md"
+      "path": "Ray Tracing/Raggi e intersezioni/Closest-Hit Tracking.md"
     },
     {
       "basename": "Le Normali",
-      "path": "Ray Tracing/Le Normali.md"
-    },
-    {
-      "basename": "Interpolazione Lineare (lerp)",
-      "path": "Ray Tracing/Interpolazione Lineare (lerp).md"
+      "path": "Ray Tracing/Matematica/Le Normali.md"
     },
     {
       "basename": "Gamma Correction",
-      "path": "Ray Tracing/Gamma Correction.md"
+      "path": "Ray Tracing/Rendering/Gamma Correction.md"
     },
     {
       "basename": "Raggio (Ray)",
-      "path": "Ray Tracing/Raggio (Ray).md"
+      "path": "Ray Tracing/Raggi e intersezioni/Raggio (Ray).md"
     },
     {
       "basename": "Antialiasing",
-      "path": "Ray Tracing/Antialiasing.md"
-    },
-    {
-      "basename": "Vettori 3D",
-      "path": "Ray Tracing/Vettori 3D.md"
+      "path": "Ray Tracing/Rendering/Antialiasing.md"
     },
     {
       "basename": "Materiale Lambertian (Diffuso)",

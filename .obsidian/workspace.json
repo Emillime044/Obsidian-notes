@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af2e20aab1ce2e8b",
+        "id": "daf173647eba2ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "dc65755347d9d5d7",
+            "id": "bd901619fd3805b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ray Tracing/Materiali/Materiale Metallico.md",
+                "file": "RetardLLM/RetardLLM — Spiegazione completa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Materiale Metallico"
-            }
-          },
-          {
-            "id": "98f33cd5326312ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ray Tracing/Riflessione Totale Interna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riflessione Totale Interna"
+              "title": "RetardLLM — Spiegazione completa"
             }
           }
         ]
@@ -220,32 +206,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dc65755347d9d5d7",
+  "active": "bd901619fd3805b1",
   "lastOpenFiles": [
-    "Ray Tracing/Riflessione Totale Interna.md",
-    "Ray Tracing/Rifrazione.md",
-    "Ray Tracing/Closest-Hit Tracking.md",
-    "Untitled.md",
+    "RetardLLM/RetardLLM — Spiegazione completa.md",
+    "RetardLLM/RetardLLM — Riferimento variabili.md",
+    "RetardLLM",
+    "Ray Tracing/Matematica/Vettori 3D.md",
+    "Ray Tracing/Materiali/Riflessione Totale Interna.md",
+    "Ray Tracing/Matematica/Interpolazione Lineare (lerp).md",
+    "Ray Tracing/Rendering",
+    "Ray Tracing/Raggi e intersezioni",
+    "Ray Tracing/Raggi e intersezioni/Ricorsione dei raggi.md",
+    "Ray Tracing/Matematica",
+    "Ray Tracing/Materiali/Rifrazione.md",
     "Ray Tracing/Materiali/Materiale Metallico.md",
-    "Ray Tracing/Le Normali.md",
-    "Ray Tracing/Interpolazione Lineare (lerp).md",
-    "Ray Tracing/Gamma Correction.md",
-    "Ray Tracing/Raggio (Ray).md",
-    "Ray Tracing/Antialiasing.md",
-    "Ray Tracing/Vettori 3D.md",
+    "Ray Tracing/Raggi e intersezioni/Closest-Hit Tracking.md",
+    "Ray Tracing/Matematica/Le Normali.md",
+    "Ray Tracing/Rendering/Gamma Correction.md",
+    "Ray Tracing/Raggi e intersezioni/Raggio (Ray).md",
+    "Ray Tracing/Rendering/Antialiasing.md",
     "Ray Tracing/Materiali/Materiale Lambertian (Diffuso).md",
     "Ray Tracing/Concetti",
     "Ray Tracing/Materiali",
     "Excalidraw/Drawing 2026-03-26 14.27.14.excalidraw.md",
-    "Ray Tracing/Hit detection Raggio-Sfera.md",
-    "Ray Tracing/Ricorsione dei raggi.md",
+    "Ray Tracing/Raggi e intersezioni/Hit detection Raggio-Sfera.md",
     "excalibrain.md",
-    "Ray Tracing/L'equazione della sfera.md",
+    "Ray Tracing/Matematica/L'equazione della sfera.md",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
-    "Untitled",
     "[[Raggio (Ray).md",
     "Welcome.md",
     "Ray Tracing"

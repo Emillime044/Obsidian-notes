@@ -2,11 +2,11 @@ Il cuore del ray tracing è un processo ricorsivo:
 
 1. Spari un [[Raggio (Ray)]] dalla camera
 2. Il [[Raggio (Ray)]] colpisce un oggetto -> calcoli il punto di impatto e la [[Le Normali|normale]]
-3. Il materiale dell'oggetto decide come il [[Raggio (Ray)]] "rimbalza"
+3. Il materiale dell'oggetto ([[Materiale Lambertian (Diffuso)]], [[Materiale Metallico]], [[Rifrazione|dielettrico]]...) decide come il [[Raggio (Ray)]] "rimbalza"
 4. Un nuovo [[Raggio (Ray)]] parte dal punto di impatto nella nuova direzione
 5. Ripeti dal punto 2
 
-Ad ogni rimbalzo, il colore viene moltiplicato per l'attenuation ([[Materiale Lambertian (Diffuso)]]). Quando il raggio finalmente non colpisce nulla (va verso il cielo), prende il colore del cielo, e quel colore viene restituito indietro attraverso tutta la catena di rimbalzi.
+Ad ogni rimbalzo, il colore viene moltiplicato per l'attenuation. Quando il raggio finalmente non colpisce nulla (va verso il cielo), prende il colore del cielo, e quel colore viene restituito indietro attraverso tutta la catena di rimbalzi.
 
 ### Come si accumula il colore
 
