@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Kerberos - Ticket e autenticazione",
-      "path": "Esame/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md"
+      "basename": "Eventi",
+      "path": "Eventi.md"
     },
     {
       "basename": "Token vs Ticket",
       "path": "Esame/AD/Protocolli e Funzionamento/Token vs Ticket.md"
     },
     {
-      "basename": "PROVA PRATICA ESAME",
-      "path": "Esame/PROVA PRATICA ESAME.md"
+      "basename": "SMB - Flusso di connessione",
+      "path": "Esame/AD/Protocolli e Funzionamento/SMB - Flusso di connessione.md"
+    },
+    {
+      "basename": "Risoluzione dei nomi in Windows",
+      "path": "Esame/AD/Protocolli e Funzionamento/Risoluzione dei nomi in Windows.md"
+    },
+    {
+      "basename": "Kerberos - Ticket e autenticazione",
+      "path": "Esame/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md"
+    },
+    {
+      "basename": "Detection - Event ID Windows",
+      "path": "Esame/AD/Detection/Detection - Event ID Windows.md"
+    },
+    {
+      "basename": "Attacchi Layer 2",
+      "path": "Esame/AD/Attacchi/Attacchi Layer 2.md"
     },
     {
       "basename": "Attacchi Active Directory",
       "path": "Esame/AD/Attacchi/Attacchi Active Directory.md"
+    },
+    {
+      "basename": "PROVA PRATICA ESAME",
+      "path": "Esame/PROVA PRATICA ESAME.md"
     },
     {
       "basename": "Protocolli",
