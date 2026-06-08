@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/AD/Attacchi/Attacchi Active Directory.md",
+                "file": "Esame/PROVA PRATICA ESAME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attacchi Active Directory"
+              "title": "PROVA PRATICA ESAME"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "bd901619fd3805b1",
   "lastOpenFiles": [
+    "Esame/AD/Attacchi/Attacchi Active Directory.md",
     "Esame/MOC - AD e Sicurezza di Rete.md",
     "Esame/AD/Protocolli e Funzionamento/Token vs Ticket.md",
     "Esame/AD/Protocolli e Funzionamento/SMB - Flusso di connessione.md",
@@ -215,7 +216,6 @@
     "Esame/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md",
     "Esame/AD/Detection/Detection - Event ID Windows.md",
     "Esame/AD/Attacchi/Attacchi Layer 2.md",
-    "Esame/AD/Attacchi/Attacchi Active Directory.md",
     "Esame/AD",
     "Esame",
     "Esame/AD/Protocolli e Funzionamento",
@@ -238,7 +238,7 @@
     "Esame/MOD -AD e Sicurezza di Rete.md",
     "Studio Esame/ADAttacks/ADAttacks.md",
     "Pasted image 20260608122431.png",
-    "Cose da fare esame.md",
+    "Esame/PROVA PRATICA ESAME.md",
     "Pasted image 20260608120634.png",
     "Pasted image 20260608115640.png",
     "Pasted image 20260608114656.png",
