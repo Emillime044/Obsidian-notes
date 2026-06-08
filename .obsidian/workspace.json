@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/PROVA PRATICA ESAME.md",
+                "file": "Esame/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROVA PRATICA ESAME"
+              "title": "Kerberos - Ticket e autenticazione"
             }
           }
         ]
@@ -208,9 +208,11 @@
   },
   "active": "bd901619fd3805b1",
   "lastOpenFiles": [
+    "Esame/AD/Protocolli e Funzionamento/Token vs Ticket.md",
+    "Esame/PROVA PRATICA ESAME.md",
+    "CagateMie",
     "Esame/AD/Attacchi/Attacchi Active Directory.md",
     "Esame/MOC - AD e Sicurezza di Rete.md",
-    "Esame/AD/Protocolli e Funzionamento/Token vs Ticket.md",
     "Esame/AD/Protocolli e Funzionamento/SMB - Flusso di connessione.md",
     "Esame/AD/Protocolli e Funzionamento/Risoluzione dei nomi in Windows.md",
     "Esame/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md",
@@ -226,7 +228,6 @@
     "Studio Esame/ADAttacks/Protocolli.md",
     "Esame/AD/Attacchi",
     "Esame",
-    "AD e Sicurezza di Rete 1",
     "Esame/Attacchi/Attacchi Active Directory.md",
     "Esame/Detection/Detection - Event ID Windows.md",
     "Esame/Attacchi/Untitled.md",
@@ -238,7 +239,6 @@
     "Esame/MOD -AD e Sicurezza di Rete.md",
     "Studio Esame/ADAttacks/ADAttacks.md",
     "Pasted image 20260608122431.png",
-    "Esame/PROVA PRATICA ESAME.md",
     "Pasted image 20260608120634.png",
     "Pasted image 20260608115640.png",
     "Pasted image 20260608114656.png",
@@ -247,12 +247,11 @@
     "Pasted image 20260607193159.png",
     "Pasted image 20260607182509.png",
     "Pasted image 20260608120610.png",
-    "RetardLLM/RetardLLM — Spiegazione completa.md",
+    "CagateMie/RetardLLM/RetardLLM — Spiegazione completa.md",
     "Studio Esame/ADAttacks/Tickets.md",
-    "RetardLLM/RetardLLM — Riferimento variabili.md",
-    "Ray Tracing/Matematica/Vettori 3D.md",
-    "Ray Tracing/Materiali/Riflessione Totale Interna.md",
-    "Ray Tracing/Matematica/Interpolazione Lineare (lerp).md",
+    "CagateMie/RetardLLM/RetardLLM — Riferimento variabili.md",
+    "CagateMie/Ray Tracing/Matematica/Vettori 3D.md",
+    "CagateMie/Ray Tracing/Materiali/Riflessione Totale Interna.md",
     "Untitled.canvas"
   ]
 }

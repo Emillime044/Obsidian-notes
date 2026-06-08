@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Kerberos - Ticket e autenticazione",
+      "path": "Esame/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md"
+    },
+    {
+      "basename": "Token vs Ticket",
+      "path": "Esame/AD/Protocolli e Funzionamento/Token vs Ticket.md"
+    },
+    {
       "basename": "PROVA PRATICA ESAME",
       "path": "Esame/PROVA PRATICA ESAME.md"
     },
@@ -46,59 +54,59 @@
     },
     {
       "basename": "RetardLLM — Spiegazione completa",
-      "path": "RetardLLM/RetardLLM — Spiegazione completa.md"
+      "path": "CagateMie/RetardLLM/RetardLLM — Spiegazione completa.md"
     },
     {
       "basename": "RetardLLM — Riferimento variabili",
-      "path": "RetardLLM/RetardLLM — Riferimento variabili.md"
+      "path": "CagateMie/RetardLLM/RetardLLM — Riferimento variabili.md"
     },
     {
       "basename": "Vettori 3D",
-      "path": "Ray Tracing/Matematica/Vettori 3D.md"
+      "path": "CagateMie/Ray Tracing/Matematica/Vettori 3D.md"
     },
     {
       "basename": "Riflessione Totale Interna",
-      "path": "Ray Tracing/Materiali/Riflessione Totale Interna.md"
+      "path": "CagateMie/Ray Tracing/Materiali/Riflessione Totale Interna.md"
     },
     {
       "basename": "Interpolazione Lineare (lerp)",
-      "path": "Ray Tracing/Matematica/Interpolazione Lineare (lerp).md"
+      "path": "CagateMie/Ray Tracing/Matematica/Interpolazione Lineare (lerp).md"
     },
     {
       "basename": "Ricorsione dei raggi",
-      "path": "Ray Tracing/Raggi e intersezioni/Ricorsione dei raggi.md"
+      "path": "CagateMie/Ray Tracing/Raggi e intersezioni/Ricorsione dei raggi.md"
     },
     {
       "basename": "Rifrazione",
-      "path": "Ray Tracing/Materiali/Rifrazione.md"
+      "path": "CagateMie/Ray Tracing/Materiali/Rifrazione.md"
     },
     {
       "basename": "Materiale Metallico",
-      "path": "Ray Tracing/Materiali/Materiale Metallico.md"
+      "path": "CagateMie/Ray Tracing/Materiali/Materiale Metallico.md"
     },
     {
       "basename": "Closest-Hit Tracking",
-      "path": "Ray Tracing/Raggi e intersezioni/Closest-Hit Tracking.md"
+      "path": "CagateMie/Ray Tracing/Raggi e intersezioni/Closest-Hit Tracking.md"
     },
     {
       "basename": "Le Normali",
-      "path": "Ray Tracing/Matematica/Le Normali.md"
+      "path": "CagateMie/Ray Tracing/Matematica/Le Normali.md"
     },
     {
       "basename": "Gamma Correction",
-      "path": "Ray Tracing/Rendering/Gamma Correction.md"
+      "path": "CagateMie/Ray Tracing/Rendering/Gamma Correction.md"
     },
     {
       "basename": "Raggio (Ray)",
-      "path": "Ray Tracing/Raggi e intersezioni/Raggio (Ray).md"
+      "path": "CagateMie/Ray Tracing/Raggi e intersezioni/Raggio (Ray).md"
     },
     {
       "basename": "Antialiasing",
-      "path": "Ray Tracing/Rendering/Antialiasing.md"
+      "path": "CagateMie/Ray Tracing/Rendering/Antialiasing.md"
     },
     {
       "basename": "Materiale Lambertian (Diffuso)",
-      "path": "Ray Tracing/Materiali/Materiale Lambertian (Diffuso).md"
+      "path": "CagateMie/Ray Tracing/Materiali/Materiale Lambertian (Diffuso).md"
     }
   ],
   "omittedPaths": [],
