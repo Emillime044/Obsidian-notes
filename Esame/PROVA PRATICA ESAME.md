@@ -1,10 +1,10 @@
 prova injection su login, mappa etc.
 
-ffuf provalo con
+ffuf:
 ```
-	ffuf -w ./wordlistacaso.txt -u https://aegistransport.com/FUZZ
-	
 	ffuf -w ./wordlist.txt -u https://FUZZ.aegistransport.com
+	
+	ffuf -w ./wordlistacaso.txt -u https://aegistransport.com/FUZZ
 ```
 
 Poi quando trovi dev fai fuzz anche anche con cartelle/file
