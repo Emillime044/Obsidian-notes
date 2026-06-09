@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/Windows/Eventi/Windows Hives.md",
+                "file": "Esame/Windows/FileSystem MACB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Hives"
+              "title": "FileSystem MACB"
             }
           }
         ]
@@ -206,11 +206,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2e20ea396b171635",
+  "active": "bd901619fd3805b1",
   "lastOpenFiles": [
+    "Esame/Windows/Eventi/Windows Hives.md",
+    "Esame/Windows/FileSystem MACB.md",
     "Esame/Windows/Eventi",
     "Esame/Windows/Eventi/Eventi.md",
-    "Esame/Windows/Eventi/Windows Hives.md",
     "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md",
     "Esame/Windows/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md",
     "Esame/Windows",
@@ -231,7 +232,6 @@
     "Esame/Attacchi 1",
     "Studio Esame/ADAttacks/Protocolli.md",
     "Esame/Windows/AD/Attacchi",
-    "Esame",
     "Esame/Attacchi/Attacchi Active Directory.md",
     "Esame/Detection/Detection - Event ID Windows.md",
     "Esame/Attacchi/Untitled.md",

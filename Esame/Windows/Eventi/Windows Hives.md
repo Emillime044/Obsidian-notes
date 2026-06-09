@@ -27,13 +27,13 @@ Gli hive sono i file che contengono il database del registro di sistema e ognuno
 ## Hive su file system
 
 SYSTEM:
-- Appartiene a HKEY_LOCAL_MACHINES\SYSTEM
+- Appartiene a HKEY_LOCAL_MACHINES\SYSTEM.
 - Contiene:
 	- Informazioni relative alla configurazione del sistema;
 		- compresi driver di dispositivi, servizi e bootstrap di sistema;
 
 SOFTWARE:
-- Appartiene a HKEY_LOCAL_MACHINE\SOFTWARE
+- Appartiene a HKEY_LOCAL_MACHINE\SOFTWARE.
 - Contiene:
 	- Informazioni su software e applicazioni installate nel sistema;
 		- comprese impostazioni specifiche dalle applicazioni e le informazioni di configurazione a livello di sistema per il softare;
@@ -43,3 +43,33 @@ NTUSER.DAT:
 - Ogni utente ha un file NTUSER.DAT nella directory del profilo utente;
 - Contiene:
 	- Configurazioni e preferenze UI;
+
+SECURITY:
+- Appartiene a HKEY_LOCAL_MACHINE\SECURITY.
+- Contiene:
+	- Informazioni relative alla sicurezza del sistema;
+	- Compresi criteri di sicurezza, account utente, gruppi, informazioni di sicurezza per vari oggetti del sistema;
+
+SAM:
+- Appartiene a HKEY_LOCAL_MACHINE\SAM.
+- Contiene informazioni su:
+	- Account utente e gruppi di sicurezza locali, insieme password;
+	- Altre informazioni relative alla sicurezza degli account;
+
+Amcache.hve:
+- Usato da Windows per memorizzare informazioni dei programmi eseguiti e installati.
+- Contiene dettagli come:
+	- Nomi dei file;
+	- Eseguibili;
+	- Percorsi;
+	- Hash SHA1;
+	- Timestamp di esecuzione e metadati sull'installazione delle applicazioni;
+
+
+## Restrizioni dei file di registro
+
+Blocco esclusivo: Windows mantiene un blocco esclusivo per prevenire corruzione dei dati e garantire integrità delle informazioni.
+
+Integrità del Sistema: Windows impedisce la copia o la modifica dei file mentre il sistema è in esecuzione.
+
+Sicurezza: Windows limita l'accesso a quei file per proteggere le informazioni sensibili contenute da accessi non autorizzati o manipolazioni.
