@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "PROVA PRATICA ESAME",
+      "path": "Esame/PROVA PRATICA ESAME.md"
+    },
+    {
+      "basename": "Wanikani",
+      "path": "日本語/Wanikani.md"
+    },
+    {
+      "basename": "Report HackTheBox",
+      "path": "Esame/Report HackTheBox.md"
+    },
+    {
       "basename": "Cifratura Simmetrica",
       "path": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md"
     },
@@ -13,10 +25,6 @@
       "path": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md"
     },
     {
-      "basename": "Report HackTheBox",
-      "path": "Esame/Report HackTheBox.md"
-    },
-    {
       "basename": "Splunk",
       "path": "Esame/SIEM/Splunk.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Token vs Ticket",
       "path": "Esame/Windows/AD/Protocolli e Funzionamento/Token vs Ticket.md"
-    },
-    {
-      "basename": "PROVA PRATICA ESAME",
-      "path": "Esame/PROVA PRATICA ESAME.md"
     },
     {
       "basename": "Discorso orale",
