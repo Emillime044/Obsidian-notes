@@ -1,0 +1,23 @@
+## Struttura
+
+- Statement Of Confidentiality;
+- Engagement Contacts;
+- Executive Summary;
+	- Approach;
+	- Scope;
+	- Assessment Overview and Recomendations;
+- Pentest Assessment Summary;
+- Summary of Findings;
+- Walkthrough Summary;
+	- Detailed Walkthrough;
+- Remediation Summary;
+	- Short term;
+	- Medium term;
+	- Long term;
+- Technical Findings Details;
+- Appendices;
+	- Appendix A - Finding Severities;
+	- Appendix B - Exploited Hosts;
+	- Appendix C - Compromised Users;
+	- Appendix D - Changes/Host Cleanup;
+	- Appendix E - Domain Password Review;

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "FileSystem MACB",
-      "path": "Esame/Windows/FileSystem MACB.md"
+      "basename": "Cifratura Simmetrica",
+      "path": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md"
+    },
+    {
+      "basename": "RSA",
+      "path": "Esame/Cifratura/Cifratura Asimmetrica/RSA.md"
+    },
+    {
+      "basename": "Cifratura Asimmetrica",
+      "path": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md"
+    },
+    {
+      "basename": "Report HackTheBox",
+      "path": "Esame/Report HackTheBox.md"
+    },
+    {
+      "basename": "Splunk",
+      "path": "Esame/SIEM/Splunk.md"
+    },
+    {
+      "basename": "Attacchi Active Directory",
+      "path": "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md"
+    },
+    {
+      "basename": "Token vs Ticket",
+      "path": "Esame/Windows/AD/Protocolli e Funzionamento/Token vs Ticket.md"
+    },
+    {
+      "basename": "PROVA PRATICA ESAME",
+      "path": "Esame/PROVA PRATICA ESAME.md"
+    },
+    {
+      "basename": "Discorso orale",
+      "path": "Esame/Discorso orale.md"
+    },
+    {
+      "basename": "MACB",
+      "path": "Esame/Windows/MACB.md"
     },
     {
       "basename": "Windows Hives",
@@ -13,24 +49,16 @@
       "path": "Esame/Windows/Eventi/Eventi.md"
     },
     {
-      "basename": "Attacchi Active Directory",
-      "path": "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md"
-    },
-    {
-      "basename": "Kerberos - Ticket e autenticazione",
-      "path": "Esame/Windows/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md"
-    },
-    {
-      "basename": "Token vs Ticket",
-      "path": "Esame/Windows/AD/Protocolli e Funzionamento/Token vs Ticket.md"
-    },
-    {
       "basename": "SMB - Flusso di connessione",
       "path": "Esame/Windows/AD/Protocolli e Funzionamento/SMB - Flusso di connessione.md"
     },
     {
       "basename": "Risoluzione dei nomi in Windows",
       "path": "Esame/Windows/AD/Protocolli e Funzionamento/Risoluzione dei nomi in Windows.md"
+    },
+    {
+      "basename": "Kerberos - Ticket e autenticazione",
+      "path": "Esame/Windows/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md"
     },
     {
       "basename": "Detection - Event ID Windows",
@@ -41,8 +69,8 @@
       "path": "Esame/Windows/AD/Attacchi/Attacchi Layer 2.md"
     },
     {
-      "basename": "PROVA PRATICA ESAME",
-      "path": "Esame/PROVA PRATICA ESAME.md"
+      "basename": "Hardnening",
+      "path": "Esame/Linux/Hardnening.md"
     },
     {
       "basename": "Protocolli",
