@@ -81,10 +81,11 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd901619fd3805b1",
+  "active": "1b4839f45c543502",
   "lastOpenFiles": [
     "Esame/Report HackTheBox.md",
     "Esame/Cifratura/Cifratura Asimmetrica/RSA.md",
