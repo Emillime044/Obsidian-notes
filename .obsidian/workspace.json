@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md",
+                "file": "Esame/SIEM/Splunk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cifratura Simmetrica"
+              "title": "Splunk"
             }
           }
         ]
@@ -209,10 +209,10 @@
   "active": "bd901619fd3805b1",
   "lastOpenFiles": [
     "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md",
+    "日本語/Wanikani.md",
     "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md",
     "Pasted image 20260610132641.png",
     "Esame/Windows/AD/Protocolli e Funzionamento/SMB - Flusso di connessione.md",
-    "日本語/Wanikani.md",
     "Esame/Windows/AD/Protocolli e Funzionamento/Risoluzione dei nomi in Windows.md",
     "Esame/Windows/AD/Protocolli e Funzionamento/Kerberos - Ticket e autenticazione.md",
     "Esame/Windows/AD/Detection/Detection - Event ID Windows.md",
