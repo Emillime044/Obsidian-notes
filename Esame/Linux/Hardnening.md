@@ -82,3 +82,8 @@ Oppure solo su un'interfaccia:
 	sysctl -p
 ```
 
+## auditd
+
+Demone principale del Linux Auditing System.
+Monitora e registra eventi di sicurezza a livello kernel.
+Una volta installato raccogli informazioni su accessi a file, comandi eseguiti, modifiche ai permessi e operazioni amministrative.

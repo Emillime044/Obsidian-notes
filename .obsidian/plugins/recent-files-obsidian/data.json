@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hardnening",
+      "path": "Esame/Linux/Hardnening.md"
+    },
+    {
       "basename": "Splunk",
       "path": "Esame/SIEM/Splunk.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "RSA",
       "path": "Esame/Cifratura/Cifratura Asimmetrica/RSA.md"
-    },
-    {
-      "basename": "Hardnening",
-      "path": "Esame/Linux/Hardnening.md"
     },
     {
       "basename": "Discorso orale",

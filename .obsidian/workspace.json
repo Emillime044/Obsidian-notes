@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/SIEM/Splunk.md",
+                "file": "Esame/Linux/Hardnening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Splunk"
+              "title": "Hardnening"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "bd901619fd3805b1",
   "lastOpenFiles": [
+    "Esame/SIEM/Splunk.md",
     "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md",
     "日本語/Wanikani.md",
     "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md",
@@ -222,7 +223,6 @@
     "2026-06-09.md",
     "Esame/Cifratura/Cifratura Asimmetrica/RSA.md",
     "Esame/Linux/Hardnening.md",
-    "Esame/SIEM/Splunk.md",
     "Esame/Discorso orale.md",
     "Esame/Windows/MACB.md",
     "Esame/Windows/Eventi/Eventi.md",
