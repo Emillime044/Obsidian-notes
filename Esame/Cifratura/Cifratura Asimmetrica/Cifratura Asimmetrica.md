@@ -8,4 +8,8 @@ Mittente e destinatario hanno una chiave pubblica (Kpub) e una chiave privata (K
 2. Il mittente usa la chiave pubblica del destinatario per cifrare il messaggio.
 3. Il destinatario usa la propria chiave privata per decifrare il messaggio.
 
+## Triade CIA
 
+- C - Si
+- I - Si
+- A - No
