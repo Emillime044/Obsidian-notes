@@ -5,8 +5,12 @@
       "path": "Esame/PROVA PRATICA ESAME.md"
     },
     {
-      "basename": "Report HackTheBox",
-      "path": "Esame/Report HackTheBox.md"
+      "basename": "Attacchi Active Directory",
+      "path": "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md"
+    },
+    {
+      "basename": "Cifratura Simmetrica",
+      "path": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md"
     },
     {
       "basename": "RSA",
@@ -17,10 +21,6 @@
       "path": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md"
     },
     {
-      "basename": "Cifratura Simmetrica",
-      "path": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md"
-    },
-    {
       "basename": "Hardnening",
       "path": "Esame/Linux/Hardnening.md"
     },
@@ -29,8 +29,24 @@
       "path": "Esame/SIEM/Splunk.md"
     },
     {
-      "basename": "Attacchi Active Directory",
-      "path": "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md"
+      "basename": "Discorso orale",
+      "path": "Esame/Discorso orale.md"
+    },
+    {
+      "basename": "MACB",
+      "path": "Esame/Windows/MACB.md"
+    },
+    {
+      "basename": "Eventi",
+      "path": "Esame/Windows/Eventi/Eventi.md"
+    },
+    {
+      "basename": "Wanikani",
+      "path": "日本語/Wanikani.md"
+    },
+    {
+      "basename": "Report HackTheBox",
+      "path": "Esame/Report HackTheBox.md"
     },
     {
       "basename": "Attacchi Layer 2",
@@ -57,32 +73,8 @@
       "path": "Esame/Windows/AD/Protocolli e Funzionamento/Token vs Ticket.md"
     },
     {
-      "basename": "Eventi",
-      "path": "Esame/Windows/Eventi/Eventi.md"
-    },
-    {
       "basename": "Windows Hives",
       "path": "Esame/Windows/Eventi/Windows Hives.md"
-    },
-    {
-      "basename": "Wanikani",
-      "path": "日本語/Wanikani.md"
-    },
-    {
-      "basename": "Discorso orale",
-      "path": "Esame/Discorso orale.md"
-    },
-    {
-      "basename": "MACB",
-      "path": "Esame/Windows/MACB.md"
-    },
-    {
-      "basename": "Protocolli",
-      "path": "Studio Esame/ADAttacks/Protocolli.md"
-    },
-    {
-      "basename": "ADAttacks",
-      "path": "Studio Esame/ADAttacks/ADAttacks.md"
     },
     {
       "basename": "Pasted image 20260608120634",

