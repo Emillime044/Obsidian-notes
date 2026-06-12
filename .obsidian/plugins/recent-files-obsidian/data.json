@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "CSRF",
-      "path": "Esame/WebApp/CSRF.md"
-    },
-    {
       "basename": "Authentication & Session Attacks",
       "path": "Esame/WebApp/Authentication & Session Attacks.md"
+    },
+    {
+      "basename": "CSRF",
+      "path": "Esame/WebApp/CSRF.md"
     },
     {
       "basename": "IDOR & Broken Access Control",

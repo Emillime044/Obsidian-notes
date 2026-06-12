@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/WebApp/CSRF.md",
+                "file": "Esame/WebApp/Authentication & Session Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSRF"
+              "title": "Authentication & Session Attacks"
             }
           }
         ]
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +206,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f7cda8831b66670",
+  "active": "2e20ea396b171635",
   "lastOpenFiles": [
+    "Esame/WebApp/CSRF.md",
     "Esame/WebApp/Authentication & Session Attacks.md",
     "Esame/WebApp/IDOR & Broken Access Control.md",
     "Esame/WebApp/Path Traversal & LFI, RFI.md",
@@ -224,7 +224,6 @@
     "日本語/Wanikani/Animals.md",
     "日本語/Wanikani/Adverbs.md",
     "Esame/WebApp/Command Injection.md",
-    "Esame/WebApp/CSRF.md",
     "Esame/WebApp/Insecure File Upload.md",
     "Esame/WebApp/Cross-Site Scripting (XSS).md",
     "Esame/WebApp/SQL Injection.md",
