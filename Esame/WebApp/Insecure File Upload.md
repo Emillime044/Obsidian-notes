@@ -35,3 +35,7 @@ carichi poi:
 ### Mitigazione
 
 Allowlist di estensioni, rinomina file random, valida il contenuto reale (non il Content-Type), salva fuori dalla webroot o in storage che non esegue codice, disabilita l'esecuzione nella cartella uploads, scansione AV.
+
+---
+
+Vedi anche: [[Command Injection]] · [[Path Traversal & LFI, RFI]] · [[Recon & Enumeration]]

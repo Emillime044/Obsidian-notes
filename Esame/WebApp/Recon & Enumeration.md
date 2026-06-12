@@ -16,4 +16,8 @@
 	-mc: match status code
 ```
 
+---
+
+Vedi anche: [[SQL Injection]] · [[Command Injection]] · [[Path Traversal & LFI, RFI]] · [[Insecure File Upload]] · [[IDOR & Broken Access Control]] · [[Authentication & Session Attacks]] · [[Cross-Site Scripting (XSS)]] · [[CSRF]] · [[Report template]]
+
 

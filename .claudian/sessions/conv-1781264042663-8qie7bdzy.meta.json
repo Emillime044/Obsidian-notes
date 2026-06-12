@@ -1,0 +1,27 @@
+{
+  "id": "conv-1781264042663-8qie7bdzy",
+  "providerId": "claude",
+  "title": "don't edit the content of files, add the links to ...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781264042664,
+  "updatedAt": 1781265661759,
+  "lastResponseAt": 1781265661759,
+  "sessionId": "79a5946b-0b4c-4232-aa92-9fcc35c28aa1",
+  "providerState": {
+    "providerSessionId": "79a5946b-0b4c-4232-aa92-9fcc35c28aa1"
+  },
+  "currentNote": "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md",
+  "externalContextPaths": [
+    "C:\\Users\\simon\\Documents\\Bobobob"
+  ],
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 388,
+    "cacheReadInputTokens": 78436,
+    "contextWindow": 1000000,
+    "contextTokens": 78826,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

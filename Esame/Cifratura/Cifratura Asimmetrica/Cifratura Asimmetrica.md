@@ -13,3 +13,7 @@ Mittente e destinatario hanno una chiave pubblica (Kpub) e una chiave privata (K
 - C - Si
 - I - Si
 - A - No
+
+---
+
+Vedi anche: [[RSA]] · [[Cifratura Simmetrica]]

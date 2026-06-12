@@ -22,3 +22,7 @@ C = ciphered text;
 - C - Si
 - I - No (server hash/HMAC a parte)
 - A - No
+
+---
+
+Vedi anche: [[Cifratura Asimmetrica]] · [[RSA]]

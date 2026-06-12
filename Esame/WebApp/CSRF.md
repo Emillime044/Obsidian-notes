@@ -21,3 +21,7 @@
 	2. Il cookie di sessione valido della vittima viene allegato alla richiesta malevola;
 5. Esecuzione sul Server:
 	1. Il server richiede la richiesta, controlla il cookie, vede che appartiene a un utente autenticato
+
+---
+
+Vedi anche: [[Cross-Site Scripting (XSS)]] · [[Authentication & Session Attacks]]

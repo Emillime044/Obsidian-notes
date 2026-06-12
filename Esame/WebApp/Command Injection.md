@@ -25,3 +25,7 @@ Caratteri che concatenano comandi shell:
 ### Mitigazione
 
 Evita di chiamare la shell; usa API native del linguaggio. Allowlist rigida + escaping degli argomenti (escapeshellarg), mai passare input grezzo alla shell.
+
+---
+
+Vedi anche: [[Insecure File Upload]] · [[Path Traversal & LFI, RFI]] · [[Report template]]

@@ -44,3 +44,7 @@ Bob esegue ```C=P^E MOD N```
 
 Per decifrare C, Alice esegue ```P=C^D MOD N```
 
+---
+
+Vedi anche: [[Cifratura Asimmetrica]] · [[Cifratura Simmetrica]]
+

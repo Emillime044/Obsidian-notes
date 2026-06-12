@@ -13,4 +13,8 @@
 
 ### Mitigazione
 
-Rate limiting + lockout, hashing forte (bcrypt/argon2), MFA, rigenerazione sessione al login, cookie sicuri (vedi XSS), token reset random e a scadenza.
+Rate limiting + lockout, hashing forte (bcrypt/argon2), MFA, rigenerazione sessione al login, cookie sicuri (vedi [[Cross-Site Scripting (XSS)|XSS]]), token reset random e a scadenza.
+
+---
+
+Vedi anche: [[SQL Injection]] · [[Cross-Site Scripting (XSS)]] · [[CSRF]] · [[Recon & Enumeration]]

@@ -37,3 +37,7 @@ Keylogger / phishing in pagina / azioni con la sessione della vittima.
 ### Mitigazione
 
 Output encoding contestuale (HTML/attr/JS/URL), Content-Security-Policy, cookie HttpOnly + Secure + SamSite, sanitizzazione (DOMPurify) per HTML "ricco", framework che fanno escaping di default.
+
+---
+
+Vedi anche: [[CSRF]] · [[Authentication & Session Attacks]]

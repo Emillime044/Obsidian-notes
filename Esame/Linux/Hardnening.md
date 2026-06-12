@@ -87,3 +87,7 @@ Oppure solo su un'interfaccia:
 Demone principale del Linux Auditing System.
 Monitora e registra eventi di sicurezza a livello kernel.
 Una volta installato raccogli informazioni su accessi a file, comandi eseguiti, modifiche ai permessi e operazioni amministrative.
+
+---
+
+Vedi anche: [[Splunk]]

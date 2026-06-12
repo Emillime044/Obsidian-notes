@@ -73,3 +73,7 @@ Blocco esclusivo: Windows mantiene un blocco esclusivo per prevenire corruzione 
 Integrità del Sistema: Windows impedisce la copia o la modifica dei file mentre il sistema è in esecuzione.
 
 Sicurezza: Windows limita l'accesso a quei file per proteggere le informazioni sensibili contenute da accessi non autorizzati o manipolazioni.
+
+---
+
+Vedi anche: [[Eventi]] · [[MACB]] · [[MFT]]

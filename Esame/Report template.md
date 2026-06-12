@@ -41,7 +41,7 @@ Macchina attaccante: [x.x.x.x]
 
 ## Findings Dettagliati
 
-SQL Injection
+[[SQL Injection]]
 Severity: [Critical/High/Medium/Low]
 Injection URL: [url]
 Metodo: [HTTP:POST]
@@ -54,7 +54,7 @@ Impatto:
 Remediation:
 
 --- 
-Command Injection
+[[Command Injection]]
 Severity: [Critical/High/Medium/Low]
 Injection URL: [url]
 Metodo: [HTTP:POST]
@@ -67,7 +67,7 @@ Impatto:
 Remediation:
 
 --- 
-Broken Access Control
+[[IDOR & Broken Access Control|Broken Access Control]]
 Severity: [Critical/High/Medium/Low]
 URL Interessato: [url]
 Metodo: [HTTP:GET]
@@ -164,3 +164,7 @@ Esempi riscontrati:
 5. Gestire chiavi e segreti tramite un vault dedicato; ruotare tutte le credenziali  compromesse.
 6. Segregare a livello di rete il database dagli host applicativi.
 7. Adottare algoritmi di hashing robusti e salati (bcrypt/argon2) e policy di password forti.
+
+---
+
+Vedi anche: [[Report HackTheBox]] · [[PROVA PRATICA ESAME]] · [[SQL Injection]] · [[Command Injection]] · [[IDOR & Broken Access Control]] · [[Authentication & Session Attacks]] · [[Recon & Enumeration]]

@@ -20,3 +20,7 @@
 | -------- | ------------------ | ------------------------------------------ | ---------------------------- |
 | 1        | Process Creation   | Nome, path, command line, hash, parent PID | Execution & lateral movement |
 | 3        | Network connection | Connessioni TCP/UDP, IP remoti             | C2 beaconing, tunneling      |
+
+---
+
+Vedi anche: [[Detection - Event ID Windows]] · [[Windows Hives]] · [[MACB]] · [[MFT]] · [[Splunk]]

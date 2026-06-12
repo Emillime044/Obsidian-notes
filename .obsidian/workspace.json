@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esame/WebApp/Authentication & Session Attacks.md",
+                "file": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication & Session Attacks"
+              "title": "Cifratura Asimmetrica"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ray Tracing/Gamma Correction.md",
+                "file": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gamma Correction"
+              "title": "Backlinks for Cifratura Asimmetrica"
             }
           },
           {
@@ -184,13 +184,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "daeb1454cd24b448",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,13 +213,25 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "2e20ea396b171635",
+  "active": "1b4839f45c543502",
   "lastOpenFiles": [
-    "Esame/WebApp/CSRF.md",
+    "Esame/Report HackTheBox.md.tmp.24404.adb5d1cb3d75",
+    "Esame/PROVA PRATICA ESAME.md.tmp.24404.7c179687fa78",
+    "Esame/Report template.md.tmp.24404.d73c35c956f9",
+    "Esame/WebApp/CSRF.md.tmp.24404.6a057f12b76e",
+    "Esame/WebApp/IDOR & Broken Access Control.md.tmp.24404.602e55dea1c2",
+    "Esame/WebApp/Path Traversal & LFI, RFI.md.tmp.24404.267d015fa256",
+    "Esame/WebApp/Cross-Site Scripting (XSS).md.tmp.24404.fb5a11548792",
+    "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md.tmp.24404.a4680c046d86",
+    "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md",
+    "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md",
+    "Esame/Windows/AD/Protocolli e Funzionamento/Risoluzione dei nomi in Windows.md",
     "Esame/WebApp/Authentication & Session Attacks.md",
+    "Esame/WebApp/CSRF.md",
     "Esame/WebApp/IDOR & Broken Access Control.md",
     "Esame/WebApp/Path Traversal & LFI, RFI.md",
     "Esame/WebApp/Untitled.md",
@@ -230,23 +252,12 @@
     "Esame/WebApp/Recon & Enumeration.md",
     "Esame/MFT.md",
     "Esame/Windows/Eventi/Windows Hives.md",
-    "Esame/PROVA PRATICA ESAME.md",
     "Esame/WebApp",
-    "Esame/Report template.md",
-    "Esame/Report HackTheBox.md",
-    "Esame/Discorso orale.md",
     "Pasted image 20260607182509.png",
     "日本語/Wanikani",
     "Pasted image 20260610132641.png",
     "日本語",
-    "Esame/Cifratura/Cifratura Simmetrica",
-    "Esame/Cifratura/Cifratura Asimmetrica",
     "Pasted image 20260609163257.png",
-    "Esame/Cifratura",
-    "Esame/SIEM",
-    "Esame/Linux",
-    "Esame/Windows/Eventi",
-    "Esame/Windows",
     "Pasted image 20260608122431.png",
     "Pasted image 20260608120634.png",
     "Pasted image 20260608115640.png",

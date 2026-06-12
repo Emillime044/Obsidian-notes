@@ -32,4 +32,8 @@ Struttura a pipeline in sile Unix: ogni ```|``` passa i risultati al comando suc
 	index="..." filtro_iniziale | comando1 | comando2 | ...
 ```
 
+---
+
+Vedi anche: [[Eventi]] · [[Detection - Event ID Windows]] · [[Hardnening]]
+
 

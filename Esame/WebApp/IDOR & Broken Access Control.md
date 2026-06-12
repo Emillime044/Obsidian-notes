@@ -15,3 +15,7 @@ L'app usa un identificatore (id, filename) preso dall'utente per accedere a un o
 ### Mitigazione
 
 Autorizzazione lato server su ogni oggetto (controlla owner/ruolo), riferimenti indiretti/non prevedibili, deny-by-default
+
+---
+
+Vedi anche: [[Authentication & Session Attacks]] · [[Report template]] · [[Recon & Enumeration]]

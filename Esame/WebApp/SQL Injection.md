@@ -67,3 +67,7 @@ Estrai dato carattere per carattere osservando se la pagina cambia:
 
 ### Mitigazione
 Prepared statements / query parametrizzate, ORM, validazione input (allowlist), least privilege sull'utente DB, WAF come difesa-inf-profondità (non come unica difesa).
+
+---
+
+Vedi anche: [[Recon & Enumeration]] · [[Authentication & Session Attacks]] · [[Report template]]

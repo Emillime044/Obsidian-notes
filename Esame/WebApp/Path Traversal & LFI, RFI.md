@@ -27,3 +27,7 @@ L'app include un URL remoto (```allow_url_include=On```):
 ### Mitigazione
 
 Allowlist dei file inclusi, ```basename()```, niente input utente nei path, ```allow_url_include=Off```, chroot/jail.
+
+---
+
+Vedi anche: [[Insecure File Upload]] · [[Command Injection]]

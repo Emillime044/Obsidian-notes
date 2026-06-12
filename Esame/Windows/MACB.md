@@ -3,7 +3,7 @@ Analisi degli attributi del file MAC(B).
 
 - Modified
 - Accessed
-- Changed ($MFT (Master File Table) Modified)
+- Changed ([[MFT|$MFT]] (Master File Table) Modified)
 - Birth (file creation time)
 
 La B è tra parentesi perché non tutti i file system registrano la nascita temporalmente parlando.
@@ -31,3 +31,7 @@ Analogo a $STANDARD_INFO attribute ma:
 - $STANDARD_INFO modificabile da utility in user space come timestamp
 	- Potenzialmente non probante in fase di raccolta di informazioni;
 - $FILE_NAME Attribute modificabile solo a livello kernel e non ci sono tool noti che lo possano fare.
+
+---
+
+Vedi anche: [[MFT]] · [[Windows Hives]]

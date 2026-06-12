@@ -16,7 +16,7 @@
 **4. Cos'è un SGSI (~50s)**
 
 - Frase secca: "insieme strutturato di policy, procedure e responsabilità per gestire la sicurezza delle informazioni."
-- Si basa sull'**analisi del rischio**; punta a riservatezza-integrità-disponibilità (CIA); logica di miglioramento continuo.
+- Si basa sull'**analisi del rischio**; punta a riservatezza-integrità-disponibilità ([[Cifratura Asimmetrica#Triade CIA|CIA]]); logica di miglioramento continuo.
 - Ponte: "si basa sull'analisi del rischio — ed è esattamente da lì che parto."
 
 **5. La base del sistema / matrice (~55s)**

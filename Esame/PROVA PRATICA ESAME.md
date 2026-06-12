@@ -35,7 +35,7 @@ prendi lo swagger e mettilo su un editor online
 poi
 
 su dev.aegistranport.com/login.html
-sql injection
+[[SQL Injection|sql injection]]
 ```
 	') OR '1'='1'; -- 
 ```
@@ -95,6 +95,10 @@ hash di un altro utente
 - crea file con hash utente
 - hashcat -m 0 nomefile wordlist
 - se non va hashcat for some fucking reason usa crackstation
+
+---
+
+Vedi anche: [[Report template]] · [[Report HackTheBox]] · [[SQL Injection]] · [[Command Injection]] · [[Recon & Enumeration]]
 
 
 
