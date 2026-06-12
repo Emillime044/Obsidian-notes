@@ -1,24 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Hardnening",
-      "path": "Esame/Linux/Hardnening.md"
+      "basename": "CSRF",
+      "path": "Esame/WebApp/CSRF.md"
     },
     {
-      "basename": "Splunk",
-      "path": "Esame/SIEM/Splunk.md"
+      "basename": "Authentication & Session Attacks",
+      "path": "Esame/WebApp/Authentication & Session Attacks.md"
     },
     {
-      "basename": "Cifratura Asimmetrica",
-      "path": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md"
+      "basename": "IDOR & Broken Access Control",
+      "path": "Esame/WebApp/IDOR & Broken Access Control.md"
     },
     {
-      "basename": "Wanikani",
-      "path": "日本語/Wanikani.md"
+      "basename": "Path Traversal & LFI, RFI",
+      "path": "Esame/WebApp/Path Traversal & LFI, RFI.md"
     },
     {
-      "basename": "Cifratura Simmetrica",
-      "path": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md"
+      "basename": "Counters",
+      "path": "日本語/Wanikani/Counters.md"
+    },
+    {
+      "basename": "Days & Time",
+      "path": "日本語/Wanikani/Days & Time.md"
+    },
+    {
+      "basename": "People & Roles",
+      "path": "日本語/Wanikani/People & Roles.md"
+    },
+    {
+      "basename": "Places",
+      "path": "日本語/Wanikani/Places.md"
+    },
+    {
+      "basename": "Nature ＆Abstract",
+      "path": "日本語/Wanikani/Nature ＆Abstract.md"
+    },
+    {
+      "basename": "Adjectives",
+      "path": "日本語/Wanikani/Adjectives.md"
+    },
+    {
+      "basename": "Colors",
+      "path": "日本語/Wanikani/Colors.md"
+    },
+    {
+      "basename": "Body",
+      "path": "日本語/Wanikani/Body.md"
+    },
+    {
+      "basename": "Animals",
+      "path": "日本語/Wanikani/Animals.md"
+    },
+    {
+      "basename": "Adverbs",
+      "path": "日本語/Wanikani/Adverbs.md"
+    },
+    {
+      "basename": "Command Injection",
+      "path": "Esame/WebApp/Command Injection.md"
+    },
+    {
+      "basename": "Insecure File Upload",
+      "path": "Esame/WebApp/Insecure File Upload.md"
+    },
+    {
+      "basename": "Cross-Site Scripting (XSS)",
+      "path": "Esame/WebApp/Cross-Site Scripting (XSS).md"
+    },
+    {
+      "basename": "SQL Injection",
+      "path": "Esame/WebApp/SQL Injection.md"
+    },
+    {
+      "basename": "Recon & Enumeration",
+      "path": "Esame/WebApp/Recon & Enumeration.md"
+    },
+    {
+      "basename": "MFT",
+      "path": "Esame/MFT.md"
+    },
+    {
+      "basename": "Windows Hives",
+      "path": "Esame/Windows/Eventi/Windows Hives.md"
+    },
+    {
+      "basename": "PROVA PRATICA ESAME",
+      "path": "Esame/PROVA PRATICA ESAME.md"
+    },
+    {
+      "basename": "Report template",
+      "path": "Esame/Report template.md"
+    },
+    {
+      "basename": "Report HackTheBox",
+      "path": "Esame/Report HackTheBox.md"
+    },
+    {
+      "basename": "Discorso orale",
+      "path": "Esame/Discorso orale.md"
+    },
+    {
+      "basename": "MACB",
+      "path": "Esame/Windows/MACB.md"
+    },
+    {
+      "basename": "Eventi",
+      "path": "Esame/Windows/Eventi/Eventi.md"
+    },
+    {
+      "basename": "Token vs Ticket",
+      "path": "Esame/Windows/AD/Protocolli e Funzionamento/Token vs Ticket.md"
     },
     {
       "basename": "SMB - Flusso di connessione",
@@ -45,120 +137,64 @@
       "path": "Esame/Windows/AD/Attacchi/Attacchi Active Directory.md"
     },
     {
-      "basename": "PROVA PRATICA ESAME",
-      "path": "Esame/PROVA PRATICA ESAME.md"
+      "basename": "Splunk",
+      "path": "Esame/SIEM/Splunk.md"
+    },
+    {
+      "basename": "Hardnening",
+      "path": "Esame/Linux/Hardnening.md"
+    },
+    {
+      "basename": "Cifratura Simmetrica",
+      "path": "Esame/Cifratura/Cifratura Simmetrica/Cifratura Simmetrica.md"
     },
     {
       "basename": "RSA",
       "path": "Esame/Cifratura/Cifratura Asimmetrica/RSA.md"
     },
     {
-      "basename": "Discorso orale",
-      "path": "Esame/Discorso orale.md"
+      "basename": "Cifratura Asimmetrica",
+      "path": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md"
     },
     {
-      "basename": "MACB",
-      "path": "Esame/Windows/MACB.md"
+      "basename": "Wanikani",
+      "path": "日本語/Wanikani.md"
     },
     {
-      "basename": "Eventi",
-      "path": "Esame/Windows/Eventi/Eventi.md"
+      "basename": "Weather",
+      "path": "日本語/Wanikani/Weather.md"
     },
     {
-      "basename": "Report HackTheBox",
-      "path": "Esame/Report HackTheBox.md"
+      "basename": "Food & Drinks",
+      "path": "日本語/Wanikani/Food & Drinks.md"
     },
     {
-      "basename": "Token vs Ticket",
-      "path": "Esame/Windows/AD/Protocolli e Funzionamento/Token vs Ticket.md"
-    },
-    {
-      "basename": "Windows Hives",
-      "path": "Esame/Windows/Eventi/Windows Hives.md"
-    },
-    {
-      "basename": "Pasted image 20260608120634",
-      "path": "Pasted image 20260608120634.png"
-    },
-    {
-      "basename": "Pasted image 20260608115640",
-      "path": "Pasted image 20260608115640.png"
-    },
-    {
-      "basename": "Pasted image 20260608114656",
-      "path": "Pasted image 20260608114656.png"
-    },
-    {
-      "basename": "Pasted image 20260608114653",
-      "path": "Pasted image 20260608114653.png"
-    },
-    {
-      "basename": "Pasted image 20260607200722",
-      "path": "Pasted image 20260607200722.png"
-    },
-    {
-      "basename": "Pasted image 20260607193159",
-      "path": "Pasted image 20260607193159.png"
+      "basename": "Family",
+      "path": "日本語/Wanikani/Family.md"
     },
     {
       "basename": "Pasted image 20260607182509",
       "path": "Pasted image 20260607182509.png"
     },
     {
-      "basename": "RetardLLM — Spiegazione completa",
-      "path": "CagateMie/RetardLLM/RetardLLM — Spiegazione completa.md"
+      "basename": "Verbs",
+      "path": "日本語/Wanikani/Verbs.md"
     },
     {
-      "basename": "RetardLLM — Riferimento variabili",
-      "path": "CagateMie/RetardLLM/RetardLLM — Riferimento variabili.md"
+      "basename": "Months",
+      "path": "日本語/Wanikani/Months.md"
     },
     {
-      "basename": "Vettori 3D",
-      "path": "CagateMie/Ray Tracing/Matematica/Vettori 3D.md"
+      "basename": "Numbers",
+      "path": "日本語/Wanikani/Numbers.md"
     },
     {
-      "basename": "Riflessione Totale Interna",
-      "path": "CagateMie/Ray Tracing/Materiali/Riflessione Totale Interna.md"
+      "basename": "Money",
+      "path": "日本語/Wanikani/Money.md"
     },
     {
-      "basename": "Interpolazione Lineare (lerp)",
-      "path": "CagateMie/Ray Tracing/Matematica/Interpolazione Lineare (lerp).md"
-    },
-    {
-      "basename": "Ricorsione dei raggi",
-      "path": "CagateMie/Ray Tracing/Raggi e intersezioni/Ricorsione dei raggi.md"
-    },
-    {
-      "basename": "Rifrazione",
-      "path": "CagateMie/Ray Tracing/Materiali/Rifrazione.md"
-    },
-    {
-      "basename": "Materiale Metallico",
-      "path": "CagateMie/Ray Tracing/Materiali/Materiale Metallico.md"
-    },
-    {
-      "basename": "Closest-Hit Tracking",
-      "path": "CagateMie/Ray Tracing/Raggi e intersezioni/Closest-Hit Tracking.md"
-    },
-    {
-      "basename": "Le Normali",
-      "path": "CagateMie/Ray Tracing/Matematica/Le Normali.md"
-    },
-    {
-      "basename": "Gamma Correction",
-      "path": "CagateMie/Ray Tracing/Rendering/Gamma Correction.md"
-    },
-    {
-      "basename": "Raggio (Ray)",
-      "path": "CagateMie/Ray Tracing/Raggi e intersezioni/Raggio (Ray).md"
-    },
-    {
-      "basename": "Antialiasing",
-      "path": "CagateMie/Ray Tracing/Rendering/Antialiasing.md"
-    },
-    {
-      "basename": "Materiale Lambertian (Diffuso)",
-      "path": "CagateMie/Ray Tracing/Materiali/Materiale Lambertian (Diffuso).md"
+      "basename": "Objects",
+      "path": "日本語/Wanikani/Objects.md"
     }
   ],
   "omittedPaths": [],

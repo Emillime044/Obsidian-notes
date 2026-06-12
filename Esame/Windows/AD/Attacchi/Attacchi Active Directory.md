@@ -35,7 +35,7 @@ tags:
 
 ## Golden Ticket
 - **Tecnica:** con la chiave dell'account **`krbtgt`** l'attaccante **forgia un TGT arbitrario**, ottenendo accesso illimitato e persistente al dominio.
-- **Obiettivo:** persistenza e dominio totale (qualsiasi identità/privilegio).
+- **Obiettivo:** persistenza e controllo totale dominio (qualsiasi identità/privilegio).
 - **Mitigazione:** **doppio reset** della password `krbtgt`, protezione rigorosa del KDC/DC.
 
 ---

@@ -1,0 +1,5 @@
+
+
+|Kanji|Reading|Meaning|
+|---|---|---|
+||||
