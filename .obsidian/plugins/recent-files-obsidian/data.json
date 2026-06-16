@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Months",
+      "path": "日本語/Wanikani/Months.md"
+    },
+    {
+      "basename": "Days & Time",
+      "path": "日本語/Wanikani/Days & Time.md"
+    },
+    {
+      "basename": "Nature ＆Abstract",
+      "path": "日本語/Wanikani/Nature ＆Abstract.md"
+    },
+    {
+      "basename": "Colors",
+      "path": "日本語/Wanikani/Colors.md"
+    },
+    {
+      "basename": "People & Roles",
+      "path": "日本語/Wanikani/People & Roles.md"
+    },
+    {
+      "basename": "Places",
+      "path": "日本語/Wanikani/Places.md"
+    },
+    {
+      "basename": "Wanikani",
+      "path": "日本語/Wanikani.md"
+    },
+    {
       "basename": "Cifratura Asimmetrica",
       "path": "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md"
     },
@@ -33,28 +61,8 @@
       "path": "日本語/Wanikani/Counters.md"
     },
     {
-      "basename": "Days & Time",
-      "path": "日本語/Wanikani/Days & Time.md"
-    },
-    {
-      "basename": "People & Roles",
-      "path": "日本語/Wanikani/People & Roles.md"
-    },
-    {
-      "basename": "Places",
-      "path": "日本語/Wanikani/Places.md"
-    },
-    {
-      "basename": "Nature ＆Abstract",
-      "path": "日本語/Wanikani/Nature ＆Abstract.md"
-    },
-    {
       "basename": "Adjectives",
       "path": "日本語/Wanikani/Adjectives.md"
-    },
-    {
-      "basename": "Colors",
-      "path": "日本語/Wanikani/Colors.md"
     },
     {
       "basename": "Body",
@@ -157,10 +165,6 @@
       "path": "Esame/Cifratura/Cifratura Asimmetrica/RSA.md"
     },
     {
-      "basename": "Wanikani",
-      "path": "日本語/Wanikani.md"
-    },
-    {
       "basename": "Weather",
       "path": "日本語/Wanikani/Weather.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "Verbs",
       "path": "日本語/Wanikani/Verbs.md"
-    },
-    {
-      "basename": "Months",
-      "path": "日本語/Wanikani/Months.md"
     },
     {
       "basename": "Numbers",
