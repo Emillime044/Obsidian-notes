@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -191,8 +191,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           }
         ],
@@ -217,7 +217,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1b4839f45c543502",
+  "active": "4f7cda8831b66670",
   "lastOpenFiles": [
     "Esame/Report HackTheBox.md.tmp.24404.adb5d1cb3d75",
     "Esame/PROVA PRATICA ESAME.md.tmp.24404.7c179687fa78",
