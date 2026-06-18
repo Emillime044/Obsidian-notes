@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/Wanikani/Months.md",
+                "file": "日本語/Wanikani/People & Roles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Months"
+              "title": "People & Roles"
             }
           }
         ]
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +219,15 @@
   },
   "active": "4f7cda8831b66670",
   "lastOpenFiles": [
-    "日本語/Wanikani/Days & Time.md",
+    "日本語/Wanikani/Places.md",
+    "日本語/Wanikani/Animals.md",
     "日本語/Wanikani/Nature ＆Abstract.md",
+    "日本語/Wanikani/Body.md",
+    "日本語/Wanikani/Months.md",
+    "日本語/Wanikani/Direction & Position.md",
+    "日本語/Wanikani/Days & Time.md",
     "日本語/Wanikani/Colors.md",
     "日本語/Wanikani/People & Roles.md",
-    "日本語/Wanikani/Places.md",
     "日本語/Wanikani.md",
     "Esame/Cifratura/Cifratura Asimmetrica/Cifratura Asimmetrica.md",
     "Esame/Report HackTheBox.md.tmp.24404.adb5d1cb3d75",
@@ -243,16 +247,12 @@
     "Esame/WebApp/Untitled.md",
     "日本語/Wanikani/Counters.md",
     "日本語/Wanikani/Adjectives.md",
-    "日本語/Wanikani/Body.md",
-    "日本語/Wanikani/Animals.md",
     "日本語/Wanikani/Adverbs.md",
     "Esame/WebApp/Command Injection.md",
     "Esame/WebApp/Insecure File Upload.md",
     "Esame/WebApp/Cross-Site Scripting (XSS).md",
     "Esame/WebApp/SQL Injection.md",
     "Esame/WebApp/Recon & Enumeration.md",
-    "Esame/MFT.md",
-    "Esame/Windows/Eventi/Windows Hives.md",
     "Esame/WebApp",
     "Pasted image 20260607182509.png",
     "日本語/Wanikani",
